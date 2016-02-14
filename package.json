@@ -7,6 +7,9 @@
   "name": "trycrmr",
   "email": "trycrmr@gmail.com"
 }],
+  "scripts": {
+    "start": "node server.js"
+  },
   "repository": {
   "type": "git",
   "url": "https://github.com/trycrmr/microservice-neo4j"
