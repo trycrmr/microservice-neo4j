@@ -1,0 +1,27 @@
+{
+  "name": "microservice-neo4j",
+  "version": "0.1.0",
+  "description": "TBD",
+  "author": "trycrmr <trycrmr@gmail.com>",
+  "contributors": [{
+  "name": "trycrmr",
+  "email": "trycrmr@gmail.com"
+}],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/trycrmr/microservice-neo4j"
+},
+  "bugs": {
+  "url": "https://github.com/trycrmr/microservice-neo4j/issues"
+},
+  "keywords": [
+  "microservice",
+  "neo4j",
+  "node"
+],
+  "dependencies": {
+    "express": "~4",
+    "neo4j": "~1"
+  },
+  "license": "MIT"
+}
