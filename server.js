@@ -25,7 +25,7 @@ app.use(function(request, response, next){
 	//Home route
 	app.get('/', function(request, response) {
 		//response.sendFile(__dirname + '/app/views/index.html');
-		response.send('Are you there?');
+		response.send('Are you there? foo bar baz');
 	});
 
 	//testing route Route
